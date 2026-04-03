@@ -1,0 +1,15 @@
+{
+  "name": "golfwow-plugin",
+  "description": "GolfWow data ops plugin marketplace",
+  "owner": {
+    "name": "GolfWow Team"
+  },
+  "plugins": [
+    {
+      "name": "golfwow",
+      "description": "GolfWow 数据运营插件 — 通过 SQL 直连查询和管理高尔夫旅游业务数据",
+      "version": "0.1.0",
+      "source": "./"
+    }
+  ]
+}
